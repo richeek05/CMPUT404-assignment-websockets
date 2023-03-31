@@ -63,7 +63,7 @@ Contributors
 
 References:
 ===========
-* https://github.com/abramhindle/WebSocketsExamples
+* Websocket Example: https://github.com/abramhindle/WebSocketsExamples
 * Assignment 4: https://github.com/richeek05/CMPUT404-assignment-ajax
 * Redirecting: https://stackoverflow.com/questions/14343812/redirecting-to-url-in-flask
 * Jsonify(): https://stackoverflow.com/questions/7907596/json-dumps-vs-flask-jsonify
