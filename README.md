@@ -59,3 +59,13 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Richeek Mathur (2023)
+
+References:
+===========
+* https://github.com/abramhindle/WebSocketsExamples
+* Assignment 4: https://github.com/richeek05/CMPUT404-assignment-ajax
+* Redirecting: https://stackoverflow.com/questions/14343812/redirecting-to-url-in-flask
+* Jsonify(): https://stackoverflow.com/questions/7907596/json-dumps-vs-flask-jsonify
+* Response: https://attacomsian.com/blog/xhr-json-response
+* HTTP Headers (XHR): https://attacomsian.com/blog/http-requests-xhr#:~:text=XMLHttpRequest%20allows%20us%20to%20set%20request%20headers%20and,headers%20xhr.setRequestHeader%28%27Content-Type%27%2C%20%27application%2Fjson%27%29%20xhr.setRequestHeader%28%27Accept%27%2C%20%27%2A%2F%2A%27%29%20%2F%2F%20accept%20all
